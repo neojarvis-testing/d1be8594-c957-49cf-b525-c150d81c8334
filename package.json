@@ -1,0 +1,23 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "manoow.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/neojarvis-testing/d1be8594-c957-49cf-b525-c150d81c8334.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neojarvis-testing/d1be8594-c957-49cf-b525-c150d81c8334/issues"
+  },
+  "homepage": "https://github.com/neojarvis-testing/d1be8594-c957-49cf-b525-c150d81c8334#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
